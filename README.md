@@ -10,6 +10,8 @@ base_model:
 - google/vit-base-patch16-224-in21k
 ---
 
+**<span style="color:red;">Model Link :</span>** https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model
+
 ![df[ViT].gif](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/Xbuv-x40-l3QjzWu5Yj2F.gif)
 
 # **Deep-Fake-Detector-Model**
